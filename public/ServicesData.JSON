@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "img": "https://media.istockphoto.com/vectors/graduation-cap-academic-hat-with-tassel-isolated-on-white-background-vector-id1258160026?k=20&m=1258160026&s=170667a&w=0&h=ejTXUlJBHhagHB9MzLay5lXGdDQq-o6KLb7Qt7sz5H8=",
+    "serviesr": "Admission Services",
+    "point1": "Admission Counseling",
+    "point2": "Match courses based on your needs",
+    "point3": "Scholarship eligibility & application",
+    "point4": "Selecting the right university ",
+    "point5": "Tuition fees payment assistance"
+  },
+  {
+    "id": "02",
+    "img": "https://dcassetcdn.com/design_img/3697515/792503/22049032/jvnbep07s7vsb623gtnbv28jpx_image.jpg",
+    "serviesr": "Visa Assistance",
+    "point1": "Visa application processing",
+    "point2": "Visa interview training",
+    "point3": "What to do / What not to do ",
+    "point4": "Embassy appointment booking",
+    "point5": "360 degree expert support"
+  },
+  {
+    "id": "03",
+    "img": "https://thumbs.dreamstime.com/b/handshake-gesture-outline-icon-element-hand-gesture-illustration-icon-signs-symbols-can-be-used-web-logo-mobile-app-153294120.jpg",
+    "serviesr": "Post Departure Support",
+    "point1": "Accommodation support  ",
+    "point2": "Travel related assistance ",
+    "point3": "Airport pickup",
+    "point4": "Helping students to cope up ",
+    "point5": "Tuition fees payment assistance"
+  }
+]

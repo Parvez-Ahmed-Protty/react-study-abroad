@@ -1,0 +1,128 @@
+[
+  {
+    "key": "34223",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": "English",
+    "population": "38005238",
+    "flags": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/320px-Flag_of_Canada_%28Pantone%29.svg.png"
+  },
+  {
+    "key": "54323",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+
+    "name": "North Korea",
+    "capital": "Ottawa",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": "Korean",
+    "population": "25778815",
+    "flags": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/320px-Flag_of_North_Korea.svg.png"
+  },
+  {
+    "key": "12244",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+
+    "name": "Sweden",
+    "capital": "Swedish",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": "Korean",
+    "population": "10353442",
+    "flags": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/320px-Flag_of_Sweden.svg.png"
+  },
+  {
+    "key": "32237",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+
+    "name": "Hungary",
+    "capital": "Magyarország",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": "Hungarian",
+    "population": "9749763",
+    "flags": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/320px-Flag_of_Hungary.svg.png"
+  },
+  {
+    "key": "54253",
+    "independent": true,
+    "status": "Republic of Malta",
+    "unMember": true,
+
+    "name": "Malta",
+    "capital": "Valletta",
+    "region": "Maltese",
+    "subregion": "Central Europe",
+    "languages": "Hungarian",
+    "population": "525285",
+    "flags": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/320px-Flag_of_Malta.svg.png"
+  },
+  {
+    "key": "63223",
+    "independent": true,
+    "status": "United States of America",
+    "unMember": true,
+
+    "name": "United States",
+    "capital": "Valletta",
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": "English",
+    "population": "329484123",
+    "flags": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "key": "84523",
+    "independent": true,
+    "status": "United Kingdom",
+    "unMember": true,
+
+    "name": "United Kingdom",
+    "capital": "Europe",
+    "region": "Americas",
+    "subregion": "Northern Europe",
+    "languages": "English",
+    "population": "67215293",
+    "flags": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "key": "94314",
+    "independent": true,
+    "status": "Rzeczpospolita Polska",
+    "unMember": true,
+
+    "name": "Poland",
+    "capital": "Europe",
+    "region": "Americas",
+    "subregion": "Central Europe",
+    "languages": "Polish",
+    "population": "37950802",
+    "flags": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png"
+  },
+  {
+    "key": "10223",
+    "independent": true,
+    "status": "Sāmoa Amelika",
+    "unMember": true,
+
+    "name": "American Samoa",
+    "capital": "Europe",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": "English",
+    "population": "55197",
+    "flags": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/320px-Flag_of_American_Samoa.svg.png"
+  }
+]
