@@ -4,7 +4,7 @@ import { Container, Image } from "react-bootstrap";
 const Banner = () => {
   return (
     <div>
-      {/* Banner section start */}
+      {/* Banner section */}
       <Image src="./banner.png" fluid />
       <Container className="my-4 bg-white p-4">
         <h2 className="text-center fw-bold">- Study Abroad -</h2>
